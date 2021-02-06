@@ -1,1 +1,1 @@
-# Xss-payloads-for-cookie-hijacking
+# Xss-payloads-for-cookie-Stealing
